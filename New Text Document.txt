@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Moderator & Raider | Proposal</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>Crypto Moderator & Raider</h1>
+            <p>Experienced in building and engaging strong crypto communities</p>
+            <a href="#contact" class="btn">Contact Me</a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am an experienced *crypto moderator and raider*, having worked with multiple projects, ensuring strong community engagement, security, and organic growth.</p>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <h2>What I Offer</h2>
+            <ul>
+                <li>⚡ Telegram & Discord Moderation</li>
+                <li>📢 Community Engagement & Growth</li>
+                <li>🔥 Crypto Raids & Marketing Boosts</li>
+                <li>🔒 Scam Prevention & Security Monitoring</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+        <div class="container">
+            <h2>Experience</h2>
+            <p>I've worked as a *moderator and raider* for multiple crypto projects, including:</p>
+            <ul>
+                <li>🔹 Cryptify</li>
+                <li>🔹 ONYX</li>
+                <li>🔹 PROXY</li>
+                <li>🔹 Whatai</li>
+                <li>🔹 BlockInsight AI ($BIAI)</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Let's work together! Reach out to me via:</p>
+            <a href="https://twitter.com/yourhandle" class="btn">Twitter</a>
+            <a href="https://t.me/yourtelegram" class="btn">Telegram</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Crypto Moderator & Raider | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
